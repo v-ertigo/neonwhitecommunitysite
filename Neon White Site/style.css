@@ -1,0 +1,8 @@
+body {
+    background-image: url(Texture2D/bgClouds.png);
+    overflow: hidden;
+}
+
+img {
+    width: 100%
+}
