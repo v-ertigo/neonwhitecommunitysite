@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    overflow: hidden;
+}
+
+.mapContainer {
+    display: flex;
+    content: fill;
+}
