@@ -1,2 +1,7 @@
 # Neon White Community Site
-Website to distribute and submit custom levels for easier access!
+Website dedicated to easier access to community assets fo Neon White.
+This includes:
+- Custom Levels
+- Mods
+- Speedrun.com
+- Neon White Speedrunning Discord Server
