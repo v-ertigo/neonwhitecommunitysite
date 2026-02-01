@@ -3,7 +3,7 @@ body {
     overflow: hidden;
 }
 
-.mapContainer {
+.hideoutContainer {
     display: flex;
-    content: fill;
+    ;
 }
