@@ -1,8 +1,9 @@
 body {
-    background-image: url(Texture2D/bgClouds.png);
+    background-color: black;
     overflow: hidden;
 }
 
-img {
-    width: 100%
+.mapContainer {
+    display: flex;
+    content: fill;
 }
